@@ -6,7 +6,7 @@ The Group consists of Lina, Snorre and Mike.<br>
 ## Assignment 1 
 For the assignment 1 we have decided to work with Steam Reviews with 11529 observation.<br>
 Our goal was to make a classification model which predicts whether comment is positive or negative and vizualize it via Grad.io <br>
-SQLite was used for proccesing our classification model. <br>
+SQLite was used for proccesing our classification model and simulating a database. <br>
 
 
 ## Assignment 2 
