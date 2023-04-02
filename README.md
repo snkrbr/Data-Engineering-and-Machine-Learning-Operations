@@ -1,5 +1,8 @@
 # Data-Engineering-and-Machine-Learning-Operations
 
+The Group consists of Lina, Snorre and Mike.<br>
+
+
 ## Assignment 1 
 For the assignment 1 we have decided to work with Steam Reviews with 11529 observation.<br>
 Our goal was to make a classification model which predicts whether comment is positive or negative and vizualize it via Grad.io <br>
